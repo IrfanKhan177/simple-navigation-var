@@ -1,0 +1,45 @@
+.navi{
+  background-color: black;
+  
+}
+.uli{
+  display: flex;
+  
+}
+li{
+  color: white;
+  list-style: none;
+ 
+  padding: 20px 10px;
+  
+}
+.vid{
+  
+}
+img{
+  margin-top: 5px;
+  margin-right: 10px;
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+.search{
+  margin-top: 9px;
+  height: 40px;
+  
+  margin-right: 10px;
+  border-radius: 10px;
+}
+@media only screen and (min-width: 768px) {
+  .search{
+    margin-left: 500px;
+  }
+  				
+
+}
